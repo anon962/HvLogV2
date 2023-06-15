@@ -1,0 +1,8 @@
+fastapi
+javascript
+peewee
+pyzpaq
+uvicorn
+websockets
+
+black
